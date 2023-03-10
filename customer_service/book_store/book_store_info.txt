@@ -1,0 +1,7 @@
+
+name: mumu is so cute
+address: mumu house
+city: "HK
+phone_number: "(852) 12345678
+email: "mumu@mybookstore.com"
+popular book: buby in the house, mumu is sleeping, wowowow

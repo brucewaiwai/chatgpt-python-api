@@ -1,0 +1,21 @@
+
+name: Robotics Solutions Inc
+address: Hong Kong科學園
+city: "HK
+phone_number: "(852) 1234 5678
+email: "cs@gmail.com"
+opening hour: Monday to Friday, 0900-1800
+
+Robotics Solutions Inc. 是一間專注於研究、開發及銷售機器人產品的公司，主要產品線包括工業機器人、服務機器人和家用機器人。
+
+Robot_A
+Robot_A is Robotics Solutions Inc. 最主要也最具代表性的產品之一，其範圍涵蓋物流自動化、生產製造、半導體設備等領域。讓企業客戶在製造過程中大幅提高效率與品質，進而提升競爭力。
+價錢: $10000
+
+Robot_B
+Robot_B is Robotics Solutions Inc. 開發出的可以與人互動及協同作業的機器人，其中包括護理機器人、清潔機器人等等。相信這些產品可以有效地幫助人們減少照護負擔，也能夠提供更完整且更全面的客戶體驗。
+價錢: $20000
+
+Robot_C
+Robot_B is Robotics Solutions Inc. 近年來也開始進行家用機器人的研發，希望推出更實用且普及化的產品。目前已推出智能空氣清淨機器人、無人值守家庭保安機器人等，未來將致力於研發更好玩、更實用的家用機器人。
+價錢: $30000
